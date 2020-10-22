@@ -10,6 +10,9 @@
     <title>Alisha777's Profile</title>
 </head>
 <body>
+    <div class='loader_bg'>
+        <div class='loader'></div>
+        </div>
     <div class="modal">
         <img src="img/profile.jpg">
         <div class="close"></div>
@@ -21,7 +24,7 @@
                 <div class="hamburger-menu">
                     <div class="center"></div>
                 </div>
-                <a href="Get-Inside.html" class="mail">
+                <a href="GetInside.html" class="mail">
                     <i class="far fa-envelope"></i>
                 </a>
                 <div class="main">
@@ -42,16 +45,16 @@
                         <p class="text">@alisha777 is a professional model, entertainer based on Bangladesh.</p>
                     </div>
                     <div class="icons-container">
-                        <a href="Get-Inside.html" class="icon">
+                        <a href="GetInside.html" class="icon">
                             <i class="fab fa-twitter"></i>
                         </a>
-                        <a href="Get-Inside.html" class="icon">
+                        <a href="GetInside.html" class="icon">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="Get-Inside.html" class="icon">
+                        <a href="GetInside.html" class="icon">
                             <i class="fas fa-phone"></i>
                         </a>
-                        <a href="Get-Inside.html" class="icon">
+                        <a href="GetInside.html" class="icon">
                             <i class="fab fa-whatsapp"></i>
                         </a>
                     </div>
@@ -82,5 +85,11 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script>
+	    setTimeout(function(){
+		$('.loader_bg').fadeToggle();
+		},1500);
+	</script>
 </body>
 </html>

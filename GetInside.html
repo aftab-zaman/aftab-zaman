@@ -7,9 +7,12 @@
     <script src="https://kit.fontawesome.com/a81368914c.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">    
     <link rel="stylesheet" href="style.css">
-    <title>Profile Card</title>
+    <title>Alisha777's Profile</title>
 </head>
 <body>
+    <div class='loader_bg'>
+        <div class='loader'></div>
+        </div>
     <div class="modal">
         <img src="img/profile.jpg" alt="">
         <div class="close"></div>
@@ -77,5 +80,11 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script>
+	    setTimeout(function(){
+		$('.loader_bg').fadeToggle();
+		},1500);
+	</script>
 </body>
 </html>

@@ -10,6 +10,9 @@
     <title>Alisha777's Profile</title>
 </head>
 <body>
+    <div class='loader_bg'>
+        <div class='loader'></div>
+        </div>
     <div class="modal">
         <img src="img/profile.jpg">
         <div class="close"></div>
@@ -60,7 +63,7 @@
                             <a href="Get-Inside.html" class="follow">Follow</a>
                         </div>
                         <div class="share-wrap">
-                            <a href="Get-Inside.html" class="share">Message</a>
+                            <a href="" class="share">Message</a>
                         </div>
                     </div>
                 </div>
@@ -82,5 +85,11 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script>
+	    setTimeout(function(){
+		$('.loader_bg').fadeToggle();
+		},1500);
+	</script>
 </body>
 </html>
