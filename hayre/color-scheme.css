@@ -1,0 +1,935 @@
+
+
+/* region utils */
+/*
+  Prefix:
+    wl = white_label
+*/
+.wl_white_color {
+  color: #fff !important;
+}
+
+.wl_black_color {
+  color: #000 !important;
+}
+
+.wl_inherit_color {
+  color: inherit !important;
+}
+
+.wl_default_color_link {
+  color: #009eeb !important;
+}
+
+.mls_btn.wl_green_btn {
+  color: #fff !important;
+  text-shadow: 0 1px 0 #3a6816 !important;
+  background: #01b22e !important;
+  border: 0 !important;
+}
+
+.mls_btn.wl_green_btn:hover {
+  color: #fff !important;
+  background: #04c234 !important;
+  border: 0 !important;
+}
+
+.mls_btn.wl_green_btn:active {
+  background: #009526 !important;
+}
+/* endregion utils */
+
+.transaction_message_success .transaction_message_text,
+.transaction_message_success .transaction_message_text h1 {
+  color: #222 !important;
+}
+
+.transaction_message_success .transaction_message_button .mls_btn {
+  color: #fff !important;
+  text-shadow: 0 1px 0 #861c30;
+  background-color: #c92746 !important;
+}
+
+.bc_popalert.__all_bonus_here .tab_show {
+  color: #fff !important;
+}
+
+/*region popups*/
+#member_join_popup .wl_green_submit .bt30_green {
+  color: #fff !important;
+  text-shadow: 0 1px 0 #3a6816 !important;
+  background: #01b22e !important;
+  border: 0 !important;
+}
+
+#member_join_popup .wl_green_submit .bt30_green:hover {
+  color: #fff !important;
+  background: #04c234 !important;
+  border: 0 !important;
+}
+
+#member_join_popup .wl_green_submit .bt30_green:active {
+  background: #009526 !important;
+}
+
+#member_join_popup .bcf-header {
+  color: #ffffff !important;
+  background-color: #2b2b2b !important;
+}
+
+#member_join_popup.wl_default_links a {
+  color: #009eeb !important;
+}
+
+#member_join_popup .sugg_link {
+  color: inherit !important;
+}
+
+#member_join_popup .bt30,
+#member_join_popup .bt35 {
+  background-image: none !important;
+  border: none;
+}
+
+  /*endregion popups*/
+
+.listing_search_result .lsr_info .lsr_i_item .lsr_i_highlight {
+  color: #000;
+}
+
+/*region system promo messages */
+
+.im_conversations .pm_upgraded_membership .pmu_btn,
+.im_conversations .pm_downgrade_membership .dmf_link {
+  color: #fff !important;
+}
+
+/*endregion system promo messages */
+
+/*region vip overview pages*/
+.vip_overview_stock_page .sp_title {
+  color: #252525 !important;
+}
+
+.vip_overview_stock_page .sppa_link {
+  background: linear-gradient(to bottom, #00ca33, #00e175) !important;
+}
+
+.vip_overview_stock_page .sppa_link:hover {
+  background: linear-gradient(to bottom, #00ee36, #0f8) !important;
+}
+/*endregion vip overview pages*/
+
+.ap_overview_page .mls_btn.mls_btn_red {
+  color: #fff !important;
+}
+
+/* region black friday and cybermonday */
+
+.bfcm_page .bfcm_coupon_header,
+.bfcm_page .bfcm_timer_top .time_title,
+.bfcm_page .bfcm_btn {
+  color: #fff !important;
+}
+
+/* endregion black friday and cybermonday */
+
+/*region invisible mode overview pages*/
+.invisible_mode_overview {
+  background: #fff !important;
+}
+
+.invisible_mode_overview .im_title {
+  color: #282e47 !important;
+}
+
+.invisible_mode_overview .im_title_mob {
+  color: #fff !important;
+}
+
+.invisible_mode_overview .ima_btn {
+  color: #fff !important;
+  background: linear-gradient(90deg, #07cdca 0%, #00e1a9 100%) !important;
+  border: none !important;
+}
+
+.invisible_mode_overview .ima_btn:hover {
+  color: #fff !important;
+  background: linear-gradient(90deg, #07eae7 0%, #00ffc1 100%) !important;
+  border: none !important;
+}
+/*end region invisible mode overview pages*/
+
+.page_header {
+  background-color: #2b2b2b !important;
+  color: #ffffff !important;
+}
+
+.header_online,
+.page_header a,
+#header_login .user .name {
+  color: #ffffff !important;
+}
+
+.page_header .header_control .hc_icon,
+.header_burger {
+  fill: #ffffff !important;
+}
+
+.page_header .lang_button .lang_button_inner:after {
+  border-top-color: #ffffff;
+}
+
+.page_header .logged .message {   color: #ffffff !important;
+}
+
+/*.header_nav .nav_item.__filter .ni_icon_search {*/
+/*  fill: transparent;*/
+/*}*/
+
+.page_header .logo_link {
+  background: url("//i.bimbolive.com/wl/27a43aeef3d6c26bbe8f92e27a797d24.png") center no-repeat !important;
+  background-size: contain !important;
+}
+
+.header_controls_wrp {
+  border-color: #2b2b2b !important;
+}
+
+.header_lang {
+  border-color: #2b2b2b !important;
+}
+
+.header_bar {
+  color: #3B3B3B;
+  background: #f1f1f1;
+}
+
+.header_bar .hb_item {
+  color: #3B3B3B !important;
+}
+
+.header_bar .hb_item.__categories {
+  color: #fff !important;
+}
+
+.header_bar .hb_drop_down .hbd_list,
+.header_bar .hb_drop_down .hbd_list:after {
+  background-color: #ffffff;
+}
+
+.header_bar .hb_drop_down .hbd_item_link .hbd_s_live {
+  color: #000000;
+}
+
+.header_bar .hb_drop_down .hbd_item_link:hover,
+.header_bar .hb_drop_down .hbd_item_link.__current {
+  color: #ffffff !important;
+  background-color: #2b2b2b;
+}
+
+.header_bar .hb_drop_down .hbd_item_link:hover .hbd_s_live,
+.header_bar .hb_drop_down .hbd_item_link.__current .hbd_s_live {
+  color: #ffffff !important;
+}
+
+.mls_hash_tag .ht_item {
+  color: #8d263c !important;
+  background-color: #f6f6f6}
+.mls_hash_tag .ht_item:hover {
+  background-color: #e4e4e4}
+
+.bc_hash_tag {
+  color: #8d263c !important;
+  background-color: #f6f6f6;
+  border-color: #f6f6f6;
+}
+.bc_hash_tag:hover {
+  background-color: #e4e4e4;
+  border-color: #e4e4e4;
+}
+
+.page_categories .pc_tags_table .pct_row .pct_cell .pct_tag {
+  color: #8d263c !important;
+  background-color: #f6f6f6;
+}
+.page_categories .pc_tags_table .pct_row .pct_cell .pct_tag:hover {
+  background-color: #e4e4e4;
+}
+
+.ls_thumb .lst_name .lst_nick {
+  color: #fff !important;
+}
+.ls_thumb {
+  background-color: #ffffff;
+}
+.ls_thumb .lst_topic {
+  color: #000000;
+}
+.ls_thumb .lst_topic:after {
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), #ffffff 100%);
+}
+.ls_thumb .lst_wrp:after {
+  border-color: #ffffff;
+}
+
+.sorting_form .bcsb_item:hover,
+.sorting_form .bcsb_item.__selected,
+.listing_settings .bcf_selectbox .bcsb_item:hover,
+.listing_settings .bcf_selectbox .bcsb_item.__selected {
+  background-color: #2b2b2b !important;
+}
+
+.listing_tabs .lt_item:hover,
+.listing_tabs .lt_item.selected {
+  border-bottom-color: #000000;
+}
+
+
+.listing_tabs .lt_link {
+  color: #000000 !important;
+}
+
+.fl_filter_container .fl_filters .flf_subtitle,
+.fl_filter_container .fl_filters .flf_group .flf_title {
+  color: #000000;
+}
+
+.fl_filter_container {
+  background: #ffffff !important;
+}
+
+.fl_filter_container .flf_range .flf_range_values,
+.fl_filter_container .fl_filters .flf_dropdown label,
+.fl_filter_container .fl_filters .flf_dropdown .flf_counter {
+  color: #000000}
+
+.fl_filter_container .fl_filters .flf_group .flf_title:after {
+  border-color: #000000;
+}
+
+.bc_quick_search .popup_content,
+.bc_quick_search .flf_range .flf_range_values,
+.bc_quick_search .fl_filters .flf_subtitle,
+.bc_quick_search .fl_filters .flf_group .flf_title {
+  color: #000000 !important;
+}
+
+.bc_quick_search .qs_result .qs_reset {
+  color: #000000;
+}
+
+.mls_followers_not_found {
+  color: #000000;
+}
+
+.bc_mpc .mpb_gifts .gift_wrap_but_text {
+  color: #111111;
+}
+
+.bc_mpc .mpb_gifts .mp_green {
+  color: #5c85ad !important;
+}
+
+body {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 13px !important;
+}
+
+  a {
+    color: #000000;
+  }
+
+  h1, h2, h3, h4, h5, .title_h1 {
+    color: #000000;
+  }
+
+h1,
+.title_h1,
+.mls_listing_h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mls_listing_h1 {
+  color: #000000;
+}
+
+input, textarea, select {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.wrapper .content_container,
+.users div.member {
+  color: #000000 !important;
+}
+.bc_mpc .raise_model_btn {
+  color: #fff !important;
+}
+
+.top_models_sidebar .tms_header {
+  background-color: #2b2b2b !important;
+}
+
+.top_models_sidebar .tms_logo_title {
+  color: #ffffff !important; }
+
+.member_cam_popup .popup_header,
+.forbid_photo_popup .popup_header,
+.bongacams_popup_v2 .popup_header,
+.player_caption {
+  background-color: #2b2b2b !important;
+  border-color: #2b2b2b !important;
+  color: #ffffff !important;
+}
+
+.bongacams_popup_v2 .popup_title {
+  color: #ffffff !important;
+}
+
+.member_cam_popup .popup_header .collapse .icon_arrow,
+.member_cam_popup .popup_header .close .icon_arrow::before,
+.member_cam_popup .popup_header .close .icon_arrow::after,
+.forbid_photo_popup .popup_close_arrow::before,
+.forbid_photo_popup .popup_close_arrow::after,
+.bongacams_popup_v2 .popup_header .popup_close_arrow::before,
+.bongacams_popup_v2 .popup_header .popup_close_arrow::after,
+.player_caption .btn-close-arrow::before,
+.player_caption .btn-close-arrow::after {
+  background-color: #ffffff !important;
+}
+
+.member_cam_popup .popup_header .expand .icon_arrow {
+  border-color: #ffffff !important;
+}
+
+.member_cam_popup .popup_control,
+.forbid_photo_popup .popup_close,
+.bongacams_popup_v2 .popup_close,
+.player_caption .btn-close {
+  border-color: #2b2b2b !important;
+}
+
+body button.ac_more {
+  color: #ffffff !important;
+  background-color: #2b2b2b !important;
+}
+
+.confirm_email_box a.btn_yellow {
+  color: inherit !important;
+}
+
+.news_im .btn_large {
+  color: #fff !important;
+}
+
+.im_popover .inbox .im_popover_links_block .conversations_link {
+  color: #000000 !important;
+}
+
+.top_models_sidebar .tms_logo {
+  height: 50px;
+  background: url("//i.bimbolive.com/wl/27a43aeef3d6c26bbe8f92e27a797d24.png") 50% 50% no-repeat !important;
+  background-size: contain !important;
+}
+
+#header_login_popup .input_wrapper {
+  border-color: #2b2b2b !important;
+}
+
+
+.bt30 strong {
+  padding-left: 10px !important;
+  text-shadow: none !important;
+  color: #000000 !important;
+}
+.bt35,
+.bt30 {
+  background: #ffbf00 !important;
+  border: #2b2b2b 1px solid;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  color: #000000 !important;
+  text-shadow: none !important;
+}
+.bt35:hover,
+.bt30:hover {
+  background-color: #facd52 !important;
+  border-color:  #2b2b2b !important;
+  color: #000000 !important;
+}
+.bt35:hover,
+.bt30:hover,
+.bt30:hover strong {
+  color: #000000 !important;
+}
+.bt35,
+.bt30 strong,
+.bt30 span {
+  background-image: none !important;
+}
+
+#mls_pager_bottom .bt30.bt30_green {
+  background: #ffbf00 !important;
+  color: #000000 !important;
+  border: #2b2b2b 1px solid;
+  background-image: none !important;
+}
+
+
+.footer {
+  color: #666666 !important;
+  background-color: #F3F3F3 !important;
+  background-image: none !important;
+}
+
+.footer_title {
+  color: #666666 !important;
+  text-shadow: none !important;
+}
+
+.footer_list a {
+  color: #666666 !important;
+}
+
+.footer_notice {
+  color: #666666 !important;
+}
+
+.footer_whom_links {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.footer_whom_links a {
+  margin: 0 10px;
+  color: #000000 !important;
+  font-size: 12px;
+}
+
+
+.gc_holder .gc_header h2,
+.gc_holder .gc_content h3 {
+  color: #a02239 !important;
+}
+.gc_popup .gc_button_holder a.gc_button {
+  color: #fff !important;
+}
+
+.chat_games {
+  background-color: #fff;
+}
+
+.bc_confirm_popup .bcc_title,
+.bc_confirm_popup .bcc_container_info,
+.bc_confirm_popup .bcc_container_info .cgr_label {
+  color: #000;
+}
+
+.chat_games .cga_title {
+  color: #5d5d5d !important;
+}
+
+.chat_games .cga_item.__playing .cga_title {
+  color: #fff !important;
+}
+
+.chat_games .cga_notice {
+  color: #000 !important;
+}
+
+.chat_history  {
+  background-color: #fff;
+}
+
+.cybersale_discount_page .cdop_btn {
+  color: #fff !important;
+}
+
+/*region styles for IM*/
+
+#member_new_blog_im .btn_link {
+  color: #fff !important;
+}
+
+#member_new_blog_im .btn_hide {
+  color: #0c98e1 !important;
+}
+
+/*endregion styles for IM*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top_models_sidebar .tms_header {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.top_models_sidebar .tms_logo {
+  width: 200px;
+  height: 65px;
+  background-position: center !important;
+}
+
+.top_models_sidebar .tms_logo>span {  display: none;
+}
+
+#member_join_popup .bcf-header {
+  background-image: url('/images/frontend/wl/royalcams/logo_small_new.png') !important;
+}
+
+.icon_set7 {
+  background-image: url('/images/frontend/wl/royalcams/icon_set24_min.png');
+}
+
+.bcf-header {
+  background-color: #2b2b2b !important;
+}
+
+#member_join_popup.step_green {
+  background: #fbfbfb url('/images/frontend/wl/royalcams/step_signup2.jpg') no-repeat;
+}
+
+#member_join_popup.step_green .title_few_seconds {
+  left: 260px;
+}
+
+#member_join_popup.girls_blue {
+  background-image: url('/images/frontend/signup/girls_signup_wl.jpg');
+}
+
+#member_join_popup.horizont_green2 .bcf-header {
+  padding-left: 245px !important; /* rewrite geust_popups.css */
+}
+
+#member_join_popup.horizont_green2:lang(ar) .bcf-header,
+#member_join_popup.horizont_green2:lang(jw) .bcf-header {
+  padding-left: 0;
+  padding-right: 245px;
+}
+
+#member_join_popup.step_green .later {
+  background-color: #fbfbfb;
+}
+
+.benefits-header {
+  background-color: #255ab1 !important;
+}
+
+.join .title_h2 .b,
+.join h2 .b {
+  color: #255ab1 !important;
+}
+
+.panel_item.model_categories_list .navbar_panel_header{
+  color: #000;
+  background-color: #ffbf00;
+  text-shadow: none;
+}
+
+#header_login.login .bt35.bt35_maroon {
+  background: #545354 !important;
+  color: #fff !important;
+  font-weight: 800;
+}
+
+ul.mls_tabs li.selected, ul.mls_tabs li.selected:hover {
+  border-top-color: #ffbf00;
+}
+
+ul.mls_tabs li:hover {
+  border-top-color: #ffbf00;
+}
+
+#header_login.login .bt35.bt35_green {
+  color: #000 !important;
+  font-weight: 800;
+}
+
+#member_join_popup.step_green .title_few_seconds .b {
+  color: #fff !important;
+}
+
+.header_nav .nav_item:hover {
+  color: #ffbf00 !important;
+}
+
+.header_nav .nav_item {
+  border: none !important;
+}
+
+.header_bar {
+  background: #fff !important;
+  margin-bottom: 3px;
+}
+
+.header_bar .hb_item.__categories .hb_text {
+  background: #ffbf00 !important;
+  border-radius: 5px !important;
+}
+
+.header_bar .hb_item {
+  color: #000 !important;
+}
+
+.mls_listing_h1,
+.mls_listing_h1 h1 {
+  color: #636363 !important;
+}
+
+.mls_hash_tag .ht_item {
+  color: #fff !important;
+  background: #ffbf00 !important;
+}
+
+.page_categories .pc_tags_table .pct_row .pct_cell .pct_tag {
+  background: #ffbf00 !important;
+  color: #fff !important;
+  border-radius: 2px !important;
+  border: none !important;
+}
+
+.page_categories .pc_tags_table .pct_row .pct_cell .pct_tag:hover,
+.mls_hash_tag .ht_item:hover {
+  background: #545354 !important;
+}
+
+.navbar_panel_header {
+  background-color: #ffbf00 !important;
+  color: #fff !important;
+  border-radius: 3px !important;
+  text-shadow: none !important;
+}
+
+.quick_mls_panel .chatroom .content p a,
+.quick_mls_panel .chatroom .content p {
+  color: #636363 !important;
+}
+
+.sidebar_card .sb_footer_text {
+  color: #ff6024 !important;
+}
+
+.sidebar_card .sb_ttl {
+  color: #000 !important;
+}
+
+.bc_hash_tag:hover {
+  background: #ffbf00 !important;
+}
+
+.bc_hash_tag {
+  background: #545354 !important;
+  color: #fff !important;
+  border-radius: 2px !important;
+  border: none !important;
+}
+
+.ls_thumb .lst_wrp {
+  border: 1px solid #d8dbdc !important;
+}
+
+.ls_thumb .lst_topic {
+  color: #636363 !important;
+}
+
+.footer_seo .footer_seo_title {
+  color: #585858 !important;
+}
+
+.footer_copy {
+  color: #999 !important;
+}
+
+.footer_copy a {
+  color: #000 !important;
+}
+
+.footer_list a {
+  font-weight: 700;
+}
+
+.footer_list a:hover {
+  color: #000 !important;
+}
+
+.footer_sn_title {
+  color: #666 !important;
+  font-weight: 700;
+}
+
+.footer_soc_network:hover span {
+  color: #000 !important;
+}
+
+.im_popover .item_message .item_info a,
+.im_popover .see_all .conversations_link {
+  color: #2b2b2b !important
+}
+
+.profile_modal_wrapper .pm_header {
+  background: #2b2b2b !important
+}
+
+.profile_modal_wrapper .pm_close {
+  border: none !important;
+}
+
+/*region listing tabs*/
+.listing_tabs_wrp {
+  border-radius: 5px;
+  border: 1px solid #ccc !important;
+  background: #f9f9f9 !important;
+}
+
+.listing_tabs {
+  margin-top: 0 !important;
+  height: 45px !important;
+}
+
+.listing_tabs .lt_item {
+  border-left: 1px solid #ccc !important;
+  background: #fff !important;
+  display: flex !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+}
+
+.listing_tabs .lt_item .lt_link {
+  border-top: 3px solid transparent !important;
+  border-bottom: 3px solid transparent !important;
+  background: #f9f9f9 !important;
+  padding-top: 8px;
+}
+
+.listing_tabs .lt_item.selected .lt_link,
+.listing_tabs .lt_item:hover .lt_link {
+  border-top: 3px solid #ffbf00 !important;
+  background: #fff !important;
+}
+
+.listing_tabs .lt_item.selected .lt_link {
+  margin-bottom: -1px !important;
+}
+
+.listing_tabs .lt_item:first-child {
+  border-left: 0 !important;
+  border-radius: 4px 0 0 4px !important;
+}
+
+.listing_tabs .lt_item:first-child.selected {
+  border-radius: 4px 0 0 4px !important;
+}
+
+.listing_tabs .lt_item:first-child .lt_link {
+  border-radius: 4px 0 0 4px !important;
+}
+
+.listing_tabs .lt_item:last-child {
+  border-right: 1px solid #ccc !important;
+}
+
+.listing_tabs .lt_item:first-child:lang(ar),
+.listing_tabs .lt_item:first-child:lang(jw) {
+  border-radius: 0 4px 4px 0 !important;
+  border-left: 1px solid #ccc !important;
+}
+
+.listing_tabs .lt_item:first-child.selected:lang(ar),
+.listing_tabs .lt_item:first-child.selected:lang(jw) {
+  border-radius: 0 4px 0 0 !important;
+}
+
+.listing_tabs .lt_item:first-child .lt_link:lang(ar),
+.listing_tabs .lt_item:first-child .lt_link:lang(jw) {
+  border-radius: 0 4px 0 0 !important;
+}
+
+.listing_tabs .lt_item:last-child:lang(ar),
+.listing_tabs .lt_item:last-child:lang(jw) {
+  border-right: 0 !important;
+}
+
+/*endregion listing tabs*/
+
+/* region listing controls */
+
+.listing_controls {
+  padding: 0 10px;
+}
+
+.listing_controls .lc_icon {
+  fill: #636363;
+}
+
+/* endregion listing controls */
+
+.im_sm_wrap_popup_head {
+  background: #2b2b2b !important;
+  border-left: none !important;
+}
+
+.mls_btn.mls_btn_red,
+.add_tip_form .mls_btn.mls_btn_red {
+  color: #fff !important;
+}
+
+.contact_support .contact_support_info h2,
+.contact_support .support_page_email h2,
+.contact_support .member_dmca_page_inner h2 {
+  color: #fff !important;
+}
+
+.contact_support_bill .mls_btn {
+  color: #fff !important;
+}
+
+.show_video_view .btn_buy_video {
+  color: #fff !important;
+}
+
+.im_sm_wrap_popup_head .close {
+  border: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
