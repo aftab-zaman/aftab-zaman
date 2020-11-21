@@ -330,6 +330,10 @@
 .bc_mpc .mpb_gifts .mp_green {
   color: #5c85ad !important;
 }
+.bc-header {
+    background-color: #2b2b2b !important;
+    border-color: #2b2b2b !important;
+}
 
 body {
   color: #000000 !important;
